@@ -1,0 +1,48 @@
+[class*="block"]{
+   color: black;
+}
+
+h2{
+   color: red;
+}
+
+.first {
+   color: blue;
+}
+div.design-of-the-text{
+   color: #4a970b;
+}
+
+.list li{
+   color: #744206;
+}
+
+.first h3{
+   color: #c23434;
+}
+
+.selectors-by-classes p{
+   color: #bd6e9d;
+}
+
+.cascading,
+.imitation p{
+   color: #22956e;
+}
+.cascading ol{
+   color: #887aa3;
+}
+
+.second .child-selectors p{
+   color: #570bee;
+}
+
+.multiclasses > p{
+   color: #d2e61e;
+}
+.next-text ~ p {
+   color: #e26912;
+}
+.text-text + p{
+   color: #570bee;
+}
